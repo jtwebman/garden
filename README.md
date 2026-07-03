@@ -38,6 +38,15 @@ Then in the Cloudflare dashboard → Pages → the `garden` project → **Custom
 3. Build command: `npm run build` · Output directory: `public`.
 4. Add the custom domain `garden.jtwebman.com` under the project.
 
+## Live
+
+- **Production:** <https://garden-1ww.pages.dev/>
+- **Custom domain:** `garden.jtwebman.com` is registered on the Pages project. It goes live once this record exists at
+  jtwebman.com's DNS host (jtwebman.com is **not** on Cloudflare, so add it there):
+  - Type `CNAME` · Name `garden` · Target `garden-1ww.pages.dev`
+- Cloudflare auto-issues the TLS certificate once the CNAME resolves.
+- Deploys are pinned to the personal Cloudflare account via `CLOUDFLARE_ACCOUNT_ID` in the `deploy` script.
+
 ## Notes
 
 - `public/` is a build artifact (git-ignored) — CI or `npm run build` regenerates it.
