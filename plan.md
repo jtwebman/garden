@@ -187,8 +187,23 @@ The rest of the front = disease-resistant perennials (PNW rain makes apple scab 
 | | **Honeyberry (haskap) — Aurora, Borealis** | First fruit of the year, no pests; needs two varieties. |
 | | Aronia 'Viking', raspberry, marionberry | Aronia nearly indestructible; brambles on a wire trellis. |
 | Herb/flower | Rosemary, thyme, sage, oregano, lavender | Evergreen, drought-proof, pollinator magnets, no care. |
-| | Yarrow, echinacea, borage, calendula, phacelia, bulbs | The "some flowers" — plus pollinators & pest predators. |
+| | Yarrow, echinacea, borage, calendula, phacelia, **native milkweed**, bulbs | The "some flowers" — pollinators, pest predators & monarch butterflies (see below). |
 | Ground/N-fix | Strawberries, clover, comfrey, goumi | Living mulch; comfrey = chop-and-drop fertilizer. |
+
+### Butterflies — native milkweed for monarchs
+
+Western monarch numbers have crashed, and milkweed is the *only* plant their caterpillars can eat — so a patch genuinely
+helps. Plant **native** milkweed:
+
+- **Showy milkweed (_Asclepias speciosa_)** — the classic Willamette Valley native: tough, drought-tolerant, big
+  fragrant flower heads. It **spreads by underground runners**, so give it a corner to roam (great in the sunny backyard
+  or a dedicated pollinator patch), not the tidy raised beds.
+- **Narrowleaf milkweed (_Asclepias fascicularis_)** — clumping and better-behaved if you want it to stay put.
+
+Both want **full sun**. Easiest from **local native plugs** (Tualatin SWCD, Clean Water Services free natives) or
+fall-sown seed (it needs winter cold to sprout). ⚠️ **Skip tropical milkweed (_A. curassavica_)** — it's non-native,
+harbors a parasite, and disrupts monarch migration. Bonus: a milkweed + nectar patch counts toward **Backyard Habitat**
+certification.
 
 ### Sunny backyard — the back two-thirds (full sun)
 
