@@ -1,0 +1,15 @@
+{
+  "name": "garden-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Static site for garden.jtwebman.com — built from plan.md",
+  "scripts": {
+    "build": "node build.mjs",
+    "preview": "node build.mjs && npx --yes serve public",
+    "deploy": "node build.mjs && npx --yes wrangler pages deploy public --project-name=garden"
+  },
+  "dependencies": {
+    "marked": "^12.0.0"
+  }
+}
